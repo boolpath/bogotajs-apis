@@ -14,5 +14,6 @@ APIs REST con NodeJS y MongoDB
 
 ## Enlaces de interés
 - [Apigee](http://apigee.com/)  
+- [Intro to REST - Google Developers](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
 - [REST API Tutorial](http://www.restapitutorial.com/)  
 - [Roy Fielding's Dissertation](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)  
