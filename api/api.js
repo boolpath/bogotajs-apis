@@ -6,7 +6,7 @@ var http = require('http'),
     bodyParser = require('body-parser');
 
 // API SERVER
-api = express();
+var api = express();
 
 // API ROUTES
 api.get('/', function (req, res) {
